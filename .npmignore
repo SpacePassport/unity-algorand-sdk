@@ -1,0 +1,16 @@
+.docfx/**
+.github/**
+.husky/**
+.services/**
+.vscode/**
+dist/**
+Documentation~/**/*.meta
+scripts/**
+Unity.AlgoSdk*/**
+.czrc
+.editorconfig
+.gitattributes
+.gitignore
+.npmignore
+.releaserc.json
+omnisharp.json

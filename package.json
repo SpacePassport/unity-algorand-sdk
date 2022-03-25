@@ -1,0 +1,45 @@
+{
+  "name": "com.careboo.unity-algorand-sdk",
+  "displayName": "AlgoSdk",
+  "version": "2.2.0",
+  "unity": "2020.3",
+  "keywords": [
+    "algorand",
+    "tool",
+    "sdk",
+    "crypto",
+    "blockchain"
+  ],
+  "license": "MIT",
+  "description": "The [Un]official Algorand SDK for Unity. Integrate blockchain services into your game.\n\nWARNING: This package has not been audited and it should not be used in a production environment.",
+  "dependencies": {
+    "com.unity.collections": "1.1.0",
+    "com.cysharp.unitask": "2.3.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "github:CareBoo/unity-algorand-sdk",
+  "changelogUrl": "https://careboo.github.io/unity-algorand-sdk/2.2.0/changelog",
+  "documentationUrl": "https://careboo.github.io/unity-algorand-sdk/2.2.0",
+  "licensesUrl": "https://careboo.github.io/unity-algorand-sdk/2.2.0/license",
+  "author": {
+    "name": "CareBoo",
+    "url": "https://github.com/CareBoo"
+  },
+  "samples": [
+    {
+      "displayName": "Your First Transaction",
+      "description": "Contains a scene for signing and submitting your first Algorand transaction.",
+      "path": "Samples~/YourFirstTransaction"
+    },
+    {
+      "displayName": "WalletConnect",
+      "description": "Contains a scene that, when ran, will show a QR Code that can be scanned by any wallet supporting WalletConnect for Algorand.",
+      "path": "Samples~/WalletConnect"
+    }
+  ],
+  "scripts": {
+    "version": "./scripts/updateVersionUrl.sh && git add package.json .docfx/docfx.json"
+  }
+}

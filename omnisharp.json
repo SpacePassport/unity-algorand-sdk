@@ -1,0 +1,17 @@
+{
+  "RoslynExtensionsOptions": {
+    "enableAnalyzersSupport": true
+  },
+  "FormattingOptions": {
+    "OrganizeImports": true
+  },
+  "RenameOptions": {
+    "RenameInComments": true,
+    "RenameOverloads": true,
+    "RenameInStrings": true
+  },
+  "ImplementTypeOptions": {
+    "PropertyGenerationBehavior": "PreferAutoProperties",
+    "InsertionBehavior": "WithOtherMembersOfTheSameKind"
+  }
+}
