@@ -6,16 +6,16 @@ Unity Algorand SDK
 </h1>
 <p align="center">
   <a href="LICENSE.md">
-    <img src="https://img.shields.io/github/license/CareBoo/unity-algorand-sdk"/>
+    <img src="https://img.shields.io/github/license/SpacePassport/unity-algorand-sdk"/>
   </a>
-  <a href="https://github.com/CareBoo/unity-algorand-sdk/actions/workflows/test.yaml">
-    <img src="https://img.shields.io/github/workflow/status/careboo/unity-algorand-sdk/Unity%20Tests/main?label=tests"/>
+  <a href="https://github.com/SpacePassport/unity-algorand-sdk/actions/workflows/test.yaml">
+    <img src="https://img.shields.io/github/workflow/status/SpacePassport/unity-algorand-sdk/Unity%20Tests/main?label=tests"/>
   </a>
-  <a href="https://www.npmjs.com/package/com.careboo.unity-algorand-sdk">
-    <img src="https://img.shields.io/npm/v/com.careboo.unity-algorand-sdk"/>
+  <a href="https://www.npmjs.com/package/com.SpacePassport.unity-algorand-sdk">
+    <img src="https://img.shields.io/npm/v/com.SpacePassport.unity-algorand-sdk"/>
   </a>
-  <a href="https://openupm.com/packages/com.careboo.unity-algorand-sdk/">
-    <img src="https://img.shields.io/npm/v/com.careboo.unity-algorand-sdk?label=openupm&registry_uri=https://package.openupm.com"/>
+  <a href="https://openupm.com/packages/com.SpacePassport.unity-algorand-sdk/">
+    <img src="https://img.shields.io/npm/v/com.SpacePassport.unity-algorand-sdk?label=openupm&registry_uri=https://package.openupm.com"/>
   </a>
 </p>
 
@@ -136,7 +136,7 @@ This SDK will soon be [available in the Unity Asset Store](https://u3d.as/2GBr).
 The documentation built for a specific version is hosted at:
 
 ```
-https://careboo.github.io/unity-algorand-sdk/{version}/
+https://SpacePassport.github.io/unity-algorand-sdk/{version}/
 ```
 
 Read [Your First Transaction](Documentation~/your_first_transaction.md) to learn the basics on creating, signing, and sending transactions.
